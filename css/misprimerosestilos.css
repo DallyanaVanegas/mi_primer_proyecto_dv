@@ -6,3 +6,69 @@
 #idBoton2022{
     color:blue;
 }
+
+a[href] {
+    color: blue;
+    background-color: yellow;
+    opacity: 0.1;
+}
+
+#borde1{
+    border-style: dotted;
+}
+
+#borde2{
+    border-style: dashed;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 70px;
+}
+
+#borde3{
+    border-style: solid;
+}
+
+#borde4{
+    border-style: double;
+}
+
+#borde5{
+    border-style: groove;
+}
+
+#borde6{
+    border-style: ridge;
+    padding: 60px;
+}
+
+.borde7{
+    /*border-style: inset;*/
+    border-style: solid;
+    padding-top: 70px;
+    height: 700px;
+    width: 400px;
+
+}
+
+.borde8{
+    /*border-style: outset;*/
+    border-style: solid;
+    margin: 100px;
+    height: 500px;
+    width: 700px;
+}
+
+#borde9{
+    border-style: none;
+    margin: 100px 50 px;
+}
+
+#borde10{
+    border-style: hidden;
+    
+}
+
+#borde11{
+    border-style: dotted dashed solid none;
+}
