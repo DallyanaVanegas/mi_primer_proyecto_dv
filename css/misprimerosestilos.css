@@ -15,6 +15,7 @@ a[href] {
 
 #borde1{
     border-style: dotted;
+    visibility: hidden;
 }
 
 #borde2{
@@ -23,6 +24,7 @@ a[href] {
     margin-bottom: 50px;
     margin-right: 20px;
     margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #borde3{
