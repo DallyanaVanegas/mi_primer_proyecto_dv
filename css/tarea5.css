@@ -1,0 +1,30 @@
+h1{
+    text-transform: uppercase;
+    text-shadow: 1px 1px;
+    border:1px solid;
+}
+
+.clase1{
+    text-align: center;
+
+}
+
+#id1{
+    font-size: 20px;
+    border-radius: 15px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+[id] {
+    text-decoration: line-through;
+    font-style: oblique;
+    border-color: tomato;
+}
+
+
+
+
+
+
+
