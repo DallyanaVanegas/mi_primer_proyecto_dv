@@ -1,7 +1,9 @@
 h1{
     text-transform: uppercase;
-    text-shadow: 1px 1px;
     border:1px solid;
+}
+button{
+    cursor: pointer;
 }
 
 .clase1{
@@ -9,19 +11,30 @@ h1{
 
 }
 
+.clase2{
+    display: inline-block;
+}
+
 #id1{
     font-size: 20px;
     border-radius: 15px;
-    display: inline-block;
-    cursor: pointer;
+    
+}
+
+#id2{
+    text-shadow: 1px 1px;
+
 }
 
 [id] {
     text-decoration: line-through;
     font-style: oblique;
-    border-color: tomato;
+    
 }
 
+[class]{
+    border-color: tomato;
+}
 
 
 
