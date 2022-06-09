@@ -72,3 +72,13 @@ a[href] {
 #borde11{
     border-style: dotted dashed solid none;
 }
+
+.viejo{
+color: blue;
+background-color: aqua;
+}
+
+.nuevo{
+color: yellow;
+background-color: blueviolet;
+}
