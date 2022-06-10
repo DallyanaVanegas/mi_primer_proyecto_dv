@@ -29,6 +29,10 @@ a[href] {
     border-style: solid;
 }
 
+#div1{
+    border-style: solid;
+}
+
 #borde4{
     border-style: double;
 }
@@ -77,8 +81,8 @@ a[href] {
 color: blue;
 background-color: aqua;
 }
-
+/*
 .nuevo{
 color: yellow;
 background-color: blueviolet;
-}
+}*/
