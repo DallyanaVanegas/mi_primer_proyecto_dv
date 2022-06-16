@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+}
+label{
+    display: block;
+}
+
+input:hover, select:hover{
+    background-color: pink;
+}
+
+input:focus, select:focus{
+    background-color: lightgoldenrodyellow;
+}
+
+legend{
+    font-weight: bold;
+    font-size: 1em;
+    /*1em equivale a 16px*/
+    text-transform: uppercase;
+}
+
+#idBotonP {
+    text-align: center;
+}
+
+.enLinea{
+    display: inline;
+}
+
+fieldset{
+    margin:2em;
+
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
