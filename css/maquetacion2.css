@@ -1,0 +1,35 @@
+p{
+    text-align: center;
+}
+
+legend{
+    text-align: left;
+}
+
+label{
+    display: block;
+}
+
+input{
+    border:transparent;
+    border-bottom: 0.2em solid black;
+}
+
+#idBotonP {
+    text-align: right;
+}
+
+#division{
+    margin:auto;
+    width: 20%;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
